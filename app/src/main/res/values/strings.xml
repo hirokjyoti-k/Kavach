@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Kavach SOS</string>
+
+    <string name="duration">Select Duration</string>
+
+    <string name="about">Kavach is a SOS application, Once activated when you are in trouble will inform
+        your dear one\'s through text message with your current location It also starts voice recording in background as soon as application is activates
+        .\n\nUser can edit SOS message in local language edit and set three phone number of their preference</string>
+
+    <string-array name="duration">
+        <item>3 minutes</item>
+        <item>5 minutes</item>
+        <item>10 minutes</item>
+        <item>15 minutes</item>
+    </string-array>
+
+</resources>
