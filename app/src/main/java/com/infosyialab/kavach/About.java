@@ -27,6 +27,6 @@ public class About extends AppCompatActivity {
     }
 
     public void privacy(View view) {
-        startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("https://infosyialab.in/res/Kavach/privacy.html")));
+        startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("https://infosyialab.github.io/res/kavach/privacy.html")));
     }
 }
